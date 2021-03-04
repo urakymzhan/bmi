@@ -1,2 +1,8 @@
-# Project 3 for the class
+# BMI 
+Starter Code 
+
+
+
+
+
 
